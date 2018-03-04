@@ -1,8 +1,6 @@
-#  Eloquent JavaScript 3rd edition Chinese translation
+#  Eloquent JavaScript 3rd edition
 
 
 ![cover](http://eloquentjavascript.net/img/cover.jpg)
 
-由Marijn Haverbeke著作的《Eloquent JavaScript
-
-3rd edition》中文翻译版。
+由Marijn Haverbeke著作的《Eloquent JavaScript 3rd edition》中文翻译版。
