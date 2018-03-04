@@ -1,7 +1,7 @@
 #  Eloquent JavaScript 3rd edition
 
 
-![cover](http://eloquentjavascript.net/img/cover.jpg)
+![cover](https://github.com/CoolMusk/Eloquent-JavaScript-3rd-edition-Chinese-translation/blob/master/eloquent_cover.jpg)
 
 由Marijn Haverbeke著作的《Eloquent JavaScript 3rd edition》中文翻译版。
 按照字面意思，翻译为《雄辩JavaScript》。
