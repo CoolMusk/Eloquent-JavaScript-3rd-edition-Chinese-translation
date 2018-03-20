@@ -9,7 +9,9 @@
 
 ## 目录
 [Introduction](https://github.com/CoolMusk/Eloquent-JavaScript-3rd-edition-Chinese-translation/blob/master/Introduction.md)
+
 **（Part1: 语言）**
+
 1. 值，类型和操作符
 2. 程序结构
 3. 函数
